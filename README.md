@@ -1,3 +1,15 @@
+![formess Logo](./formess.svg)
+
+### formess logo — Bishop the Messenger
+
+In many languages the name of the "bishop" chess [translates][bishop-name-translations] as a *messenger*, either literally or as a *runner*.
+
+[bishop-name-translations]: https://en.wikipedia.org/wiki/Bishop_(chess)#Name_translations "Wikipedia: Bishop (chess). Name translations"
+
+![Map with meanings of bishop chess piece name in European languages](https://i.imgur.com/Xvg7xrX.png)
+
+---
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 License][cc-by-sa-4.0]. It is built upon the following the following materials:
 
 - [Chess bishop](./chess_bishop.svg) — [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) — [Wikimedia](https://commons.wikimedia.org/wiki/File:Chess_blt45.svg) — [`CC BY-SA 3.0`][cc-by-sa-3.0]
