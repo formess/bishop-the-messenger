@@ -1,8 +1,8 @@
 ![](./logo.svg)
 
-### Bishop the Messenger
+## Bishop the Messenger
 
-In many languages the name of the "bishop" chess piece [translates][bishop-name-translations] as a *messenger*, either literally or as a *runner*.
+In many languages the name of bishop chess piece [means][bishop-name-translations] *messenger*, either literally or as *runner*.
 
 [bishop-name-translations]: https://en.wikipedia.org/wiki/Bishop_(chess)#Name_translations "Wikipedia: Bishop (chess). Name translations"
 
